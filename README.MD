@@ -22,10 +22,10 @@ Sobre o Podcast<br>
 🕒 Formato: Episódios curtos (até 5 minutos), com conteúdo direto e divertido.<br>
 📚 Blocos dos Episódios:
 
-Introdução descontraída no estilo ei nerd
-Curiosidade sobre Dart e Flutter
-Ferramentas essenciais de desenvolvimento mobile
-Finalização com estilo e convite para o próximo episódio
+Introdução descontraída no estilo ei nerd<br>
+Curiosidade sobre Dart e Flutter<br>
+Ferramentas essenciais de desenvolvimento mobile<br>
+Finalização com estilo e convite para o próximo episódio<br>
 
 ## 💻 Tecnologias utilizadas no projeto
 
