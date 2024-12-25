@@ -5,14 +5,6 @@
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/Episodio 1 - PodDartSide.mp3" controls title="Podcast "></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
