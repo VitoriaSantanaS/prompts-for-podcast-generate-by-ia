@@ -13,7 +13,7 @@
 <h1> Dart Side: O Poder do Flutter 🎙️🚀 </h1>
 Bem-vindo ao repositório oficial do podcast Dart Side: O Poder do Flutter!
 
-Um podcast semanal focado em tecnologia, desenvolvimento mobile e a mágica do Flutter e do Dart. Com uma pegada jovem e descontraída, a Dev Vi traz curiosidades, dicas e insights para ajudar iniciantes no mundo do desenvolvimento frontend a darem seus primeiros passos criando aplicativos incríveis.
+Um podcast focado em tecnologia, desenvolvimento mobile e a mágica do Flutter e do Dart. Com uma pegada jovem e descontraída, a Dev Vi traz curiosidades, dicas e insights para ajudar iniciantes no mundo do desenvolvimento frontend a darem seus primeiros passos criando aplicativos incríveis.
 
 Sobre o Podcast<br>
 🎧 Nome: Dart Side: O Poder do Flutter<br>
