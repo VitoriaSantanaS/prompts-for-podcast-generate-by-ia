@@ -11,7 +11,7 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
 <h1> Dart Side: O Poder do Flutter 🎙️🚀 </h1>
-Bem-vindo ao repositório oficial do podcast Dart Side: O Poder do Flutter!
+Bem-vindo ao podcast Dart Side: O Poder do Flutter!
 
 Um podcast focado em tecnologia, desenvolvimento mobile e a mágica do Flutter e do Dart. Com uma pegada jovem e descontraída, a Dev Vi traz curiosidades, dicas e insights para ajudar iniciantes no mundo do desenvolvimento frontend a darem seus primeiros passos criando aplicativos incríveis.
 
